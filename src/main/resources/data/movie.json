@@ -1,0 +1,47 @@
+ [
+    {
+      "tconst": "tt0848228",
+      "titleType": "movie",
+      "primaryTitle": "The Avengers",
+      "originalTitle": "The Avengers",
+      "isAdult": 0,
+      "startYear": 2012,
+      "endYear": "N",
+      "runtimeMinutes": 143,
+      "genres": "Action,Adventure,Sci-Fi"
+    },
+    {
+      "tconst": "tt0371746",
+      "titleType": "movie",
+      "primaryTitle": "Iron Man",
+      "originalTitle": "Iron Man",
+      "isAdult": 0,
+      "startYear": 2008,
+      "endYear": "N",
+      "runtimeMinutes": 126,
+      "genres": "Action,Adventure,Sci-Fi"
+    },
+    {
+      "tconst": "tt1843866",
+      "titleType": "movie",
+      "primaryTitle": "Captain America: The Winter Soldier",
+      "originalTitle": "Captain America: The Winter Soldier",
+      "isAdult": 0,
+      "startYear": 2014,
+      "endYear": "N",
+      "runtimeMinutes": 136,
+      "genres": "Action,Adventure,Sci-Fi"
+    },
+    {
+      "tconst": "tt1798709",
+      "titleType": "movie",
+      "primaryTitle": "Her",
+      "originalTitle": "Her",
+      "isAdult": 0,
+      "startYear": 2013,
+      "endYear": "N",
+      "runtimeMinutes": 126,
+      "genres": "Drama,Romance,Sci-Fi"
+    }
+  ]
+
